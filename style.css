@@ -11,6 +11,9 @@ body {
 .logo {
  padding: 40px 0;
  font-family: pt_serif, arial, helvetica, sans-serif;
+ font-weight: bold;
+ font-size: 24px;
+ line-height: 31px;
 }
 .header {
  display: flex;
