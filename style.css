@@ -25,10 +25,10 @@ body {
 }
 .menu__item {
  padding: 0 13px;
+ font: 500 18px/21px Roboto, arial, helvetica, sants-serif;
 }
 .menu__item:last-child {
  padding-right: 0;
- font: 500 18px/21px Roboto, arial, helvetica, sants-serif;
 }
 head {
   font-family: 'pt_serifbold';
